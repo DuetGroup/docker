@@ -1,0 +1,4 @@
+FROM zabbix/zabbix-server-mysql:alpine-latest
+
+RUN apk add --update python python-dev py-pip build-base
+RUN pip install pysnmp
