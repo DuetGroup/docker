@@ -1,6 +1,6 @@
 ### Duet Asset Management Docker Images
 
-This is the repository for Docker images that we use. They are for the most part modified versions of the basic Zabbix Alpine Linux images, with added Python and PySNMP.
+This is the repository for Docker images that we use. They are for the most part modified versions of the basic Zabbix Alpine Linux images, with added Python, PySNMP and a bunch of added modules for external checks.
 
 ### Licensing
 Copyright (c) 2018 Duet Group
